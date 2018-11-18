@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Countries search tests","Verify that we can find united states of america country using the code US","SUCCESS","11:35:18","0.0","4.85"
+"Countries search tests","Verify that we can find brazil country using the code BR","SUCCESS","11:35:22","0.0","0.59"
+"Countries search tests","Verify that we can find india country using the code IN","SUCCESS","11:35:23","0.0","0.61"
